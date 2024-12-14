@@ -17,6 +17,7 @@ public class Challange_1 {
     
     public static void print(){
 
+        
         System.out.println("Hi \nHello \nBye");
     }
     
