@@ -1,8 +1,8 @@
 /*
  *
- * "Task 3 : call all of the class constructors when you are creating a new object"
+ * Task 2 : call all of the class constructors when you are creating a new object
  * 
- * use one this();
+ * use  this();
  * 
  */
 

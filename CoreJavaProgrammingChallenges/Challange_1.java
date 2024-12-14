@@ -1,8 +1,8 @@
 /*
  *
- * "Task 1 : printing three words in three lines"
+ * Task 1 : printing three words in three lines
  * 
- * use one System.out.println("");
+ * use only one System.out.println("");
  * to print:
  *  
  * Hi 
