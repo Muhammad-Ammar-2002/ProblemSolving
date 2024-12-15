@@ -14,10 +14,13 @@ public class Task {
 
 
 
-            Scanner s1=new Scanner(System.in);
-                System.out.println("Enter the number");
-                Challange_3.numStatus(s1.nextInt());
-                s1.close();
+            // Scanner s1=new Scanner(System.in);
+            //     System.out.println("Enter the number");
+            //     Challange_3.numStatus(s1.nextInt());
+            //     s1.close();
+
+
+            Challange_4.randomValue();
             
            
 
