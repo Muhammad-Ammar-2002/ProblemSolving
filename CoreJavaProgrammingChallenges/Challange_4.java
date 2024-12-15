@@ -22,11 +22,6 @@ public class Challange_4 {
         System.out.print(100+r.nextInt(101)+" ");
        }
 
-
-
-
-
-
         //---------------  bad code   -----------------------
         // int counter=0;
         // int value=r.nextInt(200);

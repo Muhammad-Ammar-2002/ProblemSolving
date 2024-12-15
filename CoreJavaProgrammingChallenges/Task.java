@@ -1,5 +1,5 @@
-import java.util.InputMismatchException;
-import java.util.Scanner;
+// import java.util.InputMismatchException;
+// import java.util.Scanner;
 
 public class Task {
    
@@ -20,10 +20,9 @@ public class Task {
             //     s1.close();
 
 
-            Challange_4.randomValue();
+            // Challange_4.randomValue();
             
-           
-
+             Challange_5.defaultValueOfPremitiveDataTypes();
             
     
         }
