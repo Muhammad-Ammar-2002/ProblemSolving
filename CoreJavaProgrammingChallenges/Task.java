@@ -22,7 +22,19 @@ public class Task {
 
             // Challange_4.randomValue();
             
-             Challange_5.defaultValueOfPremitiveDataTypes();
+        //      Challange_5.defaultValueOfPremitiveDataTypes();
+        
+
+                try {
+                        Class.forName("Challange_6");//loading class and calling static block without creating obj
+                } catch (ClassNotFoundException e) {
+                        e.printStackTrace();
+                }
+                new Challange_6();
+                new Challange_6();
+                new Challange_6();
+                new Challange_6();
+                new Challange_6();
             
     
         }
