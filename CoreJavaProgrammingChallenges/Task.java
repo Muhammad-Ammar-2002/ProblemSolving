@@ -37,9 +37,11 @@ public class Task {
                 // new Challange_6();
 
 
-                Challange_7.addTwoNumbersInStringFormat("1", "1");
-                Challange_7.addTwoNumbersInStringFormat("1", "java");
-                Challange_7.addTwoNumbersInStringFormat("java", "1");
+                // Challange_7.addTwoNumbersInStringFormat("1", "1");
+                // Challange_7.addTwoNumbersInStringFormat("1", "java");
+                // Challange_7.addTwoNumbersInStringFormat("java", "1");
+
+                new Challange_8().access();
             
     
         }
