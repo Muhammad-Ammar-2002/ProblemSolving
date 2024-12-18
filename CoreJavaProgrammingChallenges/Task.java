@@ -41,8 +41,24 @@ public class Task {
                 // Challange_7.addTwoNumbersInStringFormat("1", "java");
                 // Challange_7.addTwoNumbersInStringFormat("java", "1");
 
-                new Challange_8().access();
+
+                // new Challange_8().access();
             
+
+                Challange_9.Display_multiples(3, 5,50);
+
+
+
+
+
+
+
+
+
+
+
+
+
     
         }
     
