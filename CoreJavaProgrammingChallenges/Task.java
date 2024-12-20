@@ -45,11 +45,11 @@ public class Task {
                 // new Challange_8().access();
             
 
-                Challange_9.Display_multiples(3, 5,50);
+                // Challange_9.Display_multiples(3, 5,50);
 
 
 
-
+                Challange_10.wrapperClasses();
 
 
 
