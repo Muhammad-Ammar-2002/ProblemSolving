@@ -49,12 +49,12 @@ public class Task {
 
 
 
-                Challange_10.wrapperClasses();
+                // Challange_10.wrapperClasses();
 
 
+                Challange_11.arraySumOfElements(20,20,30,30);
 
-
-
+                
 
 
 
