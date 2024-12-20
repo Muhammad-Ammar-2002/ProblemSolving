@@ -1,6 +1,8 @@
 // import java.util.InputMismatchException;
 // import java.util.Scanner;
 
+import javax.naming.InsufficientResourcesException;
+
 public class Task {
    
 
@@ -54,11 +56,19 @@ public class Task {
 
                 // Challange_11.arraySumOfElements(20,20,30,30);
 
-                new Challange_12.Child();
+                // new Challange_12.Child();
 
 
+                /*
+                 * Task 13 : print the sum of 2 integer arguments, you got them from cmd 
+                 * if other than 2 args print:Insufficient arguments
+                 * 
+                 * use String args
+                 */
 
-
+               
+                        Challange_7.addTwoNumbersInStringFormat(args[0], args[1]);
+               
     
         }
     
